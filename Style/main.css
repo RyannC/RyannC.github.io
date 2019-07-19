@@ -1,0 +1,38 @@
+
+
+h1 {
+    color: #FCF4A3;
+}
+
+
+body {
+  background-color: #ffb6c1;
+  font-family: 'Raleway', sans-serif;
+}
+.container{
+  display: flex;
+  border: 2px solid black
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+}
+
+#resume  {
+  color: white;
+}
+
+#project {
+  color: white;
+}
+
+#aboutme {
+  color: white;
+}
+
+#me {
+  color: white;
+}
+
+#state {
+  color: white;
+}
